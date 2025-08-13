@@ -13,7 +13,7 @@ This Cosmetx mod should work **FOREVER** unless CosmeticsController gets severel
 
 # Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/ForeverCosmetx/releases/latest)
+- Download the release from [here](https://github.com/famseamussorsomethin/ForeverQuestmetx/releases/latest)
 - Load the `ForeverCosmetx.so` lib however you need (this does not contain auth!)
 - Start Gorilla Tag if needed
 
